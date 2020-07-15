@@ -14,8 +14,6 @@
 
 * Remove all MTX
 
-* Replace default skill skin with MTX (beta, can crash game)
-
 # Preview
 
 ![preview1](https://i.imgur.com/xcLVAED.jpg)
