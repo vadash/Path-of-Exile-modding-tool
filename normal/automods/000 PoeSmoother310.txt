@@ -1,6 +1,6 @@
 name "000 poesmoother"
 
-title "remove spell effects (.pet .trl)"
+title "reduce spell effects (.pet .trl)"
 exclude /lightning_orb/orb/"
 exclude "/electrical_surge/"
 exclude "/surge/lightning/"
@@ -19,7 +19,7 @@ exclude "/league_legion/rewardsystem/"
 exclude "/atlasexiles/orion"
 restriction "\.pet$"
 restriction "\.trl$"
-execute "zero_pet"
+execute "aps311_1emitter_plus"
 
 title "disable fog, shadows, rain. add lighting to dark areas (.env)"
 restriction "\.env$"
