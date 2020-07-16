@@ -16,10 +16,7 @@
 
 # Preview
 
-![preview1](https://i.imgur.com/xcLVAED.jpg)
-
-Not CPU limited - GTX 1060 3GB - **240 fps** idle with reshade (300 fps without) - 1680x1050 screen
-[Reshade fork for poe with depth buffer unlocked](https://github.com/vadash/reshade/releases)
+![preview1](https://i.imgur.com/rWG8ECE.jpg)
 
 # Disclaimer
 
