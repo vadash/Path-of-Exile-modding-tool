@@ -1,25 +1,28 @@
 REM Quick deleting old backup folder keep
 
-CD keep
+REN keep keep2
 
 if errorlevel 1 (
-	timeout 5
+	exit
+)
+
+CD keep2
+
+if errorlevel 1 (
 	exit
 )
 
 DEL /F/Q/S *.* > NUL
 
 if errorlevel 1 (
-	timeout 5
 	exit
 )
 
 CD ..
 
 if errorlevel 1 (
-	timeout 5
 	exit
 )
 
-RMDIR /Q/S keep
+RMDIR /Q/S keep2
 
