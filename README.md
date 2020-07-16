@@ -39,9 +39,7 @@ If you use GGPK to modify the game files, you are responsible for the consequenc
 
 * [Download script](https://github.com/vadash/Path-of-Exile-modding-tool/archive/master.zip) Unpack somewhere and open script folder (Path-of-Exile-modding-tool-master)
 
-* [Nvidia] Copy `Path-of-Exile-modding-tool\optional\nvidia` content to `Path-of-Exile-modding-tool\extracted`. Yes to override. Correct path will be `Path-of-Exile-modding-tool\extracted\Shaders\Renderer\Fog.ffx` for example. This will reduce gpu usage. You can use it on AMD but it may cause some lighting problems. Test it yourself
-
-* [If you want to remove delirium fog] Copy `Path-of-Exile-modding-tool\optional\null delirium fog` content to `Path-of-Exile-modding-tool\extracted`. Edit "exclude" file, delete "League_Affliction/fogAttachment" line, save
+* Open optional folder and copy what u need to exctracted. Correct path is `Path-of-Exile-modding-tool\normal\extracted\Shaders\PostProcessing.hlsl`
 
 * Run `Start.cmd` 
 
