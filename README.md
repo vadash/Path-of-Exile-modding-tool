@@ -20,7 +20,11 @@ https://imgur.com/a/lujEQq3
 
 # Preview
 
-![preview1](https://i.imgur.com/rWG8ECE.jpg)
+Recommended preset is
+
+![preview1](https://i.imgur.com/b77Ur76.jpg)
+
+![preview1](https://i.imgur.com/LxqWWXE.png)
 
 # Disclaimer
 
