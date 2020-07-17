@@ -1,11 +1,5 @@
 import re
 
-masterfilter_restrict=[
-    ]
-
-masterfilter_exclude=[
-    ]
-
 # we null this
 condition=[
    "SoundEvents",
