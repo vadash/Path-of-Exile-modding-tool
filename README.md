@@ -14,7 +14,7 @@
 
 * Remove all MTX
 
-# GUIDE for new users
+# Guide for new users
 
 https://imgur.com/a/lujEQq3
 
