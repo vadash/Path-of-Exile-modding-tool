@@ -20,15 +20,25 @@ https://imgur.com/a/lujEQq3
 
 # Preview
 
-Recommended preset posted below
+Recommended preset posted below. I already copied from optional
+
+* hide they of tul spectres
+* remove bloom, blur
+* remove delirium fog
+
+to extracted folder. If u dont like it clear it and DIY
+
+![preview1](https://i.imgur.com/b77Ur76.jpg)
+
+![preview1](https://i.imgur.com/LxqWWXE.png)
+
+# Tags
 
 [potato] - will remove something important but can provide big fps boost
 
 OR - you can pick one. For example only 1 filter for .env files
 
-![preview1](https://i.imgur.com/b77Ur76.jpg)
-
-![preview1](https://i.imgur.com/LxqWWXE.png)
+[optional] - edit some skills
 
 # Disclaimer
 
