@@ -128,3 +128,7 @@ Close game -> Run included ggpk_defragment.exe -> Wait to finish
 Example https://i.imgur.com/yuclr4X.jpg
 
 Close game and tool -> Run `run_me_after_big_patch(reset keep folder).cmd`
+
+## Tool is not running
+
+https://github.com/vadash/Path-of-Exile-modding-tool/issues/10
