@@ -14,6 +14,10 @@
 
 * Remove all MTX
 
+# GUIDE
+
+https://imgur.com/a/lujEQq3
+
 # Preview
 
 ![preview1](https://i.imgur.com/rWG8ECE.jpg)
