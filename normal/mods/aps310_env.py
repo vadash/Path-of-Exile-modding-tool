@@ -22,7 +22,6 @@ def execute(filename, backupfiledata, modifyggpk):
                          r'',
                          filedatamod,
                          flags=re.MULTILINE|re.IGNORECASE|re.VERBOSE)
-    filedatamod = re.sub(r'"player_environment_ao": "Metadata/Effects/weather_attachments/rain/rain.ao",', r'"player_environment_ao": "",', filedatamod)
     filedatamod = re.sub(r'"shadows_enabled": true,', r'"shadows_enabled": false,', filedatamod)
     filedatamod = re.sub(r'"use_forced_screenspace_shadows": true,', r'"use_forced_screenspace_shadows": false,', filedatamod)
     filedatamod = re.sub(r"""\s*"directional_light":\s* # key elem
