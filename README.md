@@ -24,7 +24,7 @@ https://imgur.com/a/lujEQq3
 
 # Disclaimer
 
-If you use GGPK to modify the game files, you are responsible for the consequences and risks. So far they didnt ban anyone for it ALONE in last 3 years
+If you use GGPK to modify the game files, you are responsible for the consequences and risks. So far they didnt ban anyone for it in last 3 years
 
 # How to use
 
