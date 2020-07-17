@@ -20,7 +20,15 @@ https://imgur.com/a/lujEQq3
 
 # Preview
 
-![preview1](https://i.imgur.com/rWG8ECE.jpg)
+Recommended preset posted below
+
+[potato] - will remove something important but can provide big fps boost
+
+OR - you can pick one. For example only 1 filter for .env files
+
+![preview1](https://i.imgur.com/b77Ur76.jpg)
+
+![preview1](https://i.imgur.com/LxqWWXE.png)
 
 # Disclaimer
 
