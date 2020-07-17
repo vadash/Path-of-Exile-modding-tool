@@ -26,7 +26,7 @@ Recommended preset posted below. I already copied from optional
 * remove bloom, blur
 * remove delirium fog
 
-to extracted folder. If u dont like it clear it and DIY
+to extracted folder (this stuff get inserted into ggpk directly after u press INSERT). If u dont like it clear it and DIY
 
 ![preview1](https://i.imgur.com/b77Ur76.jpg)
 
