@@ -127,19 +127,7 @@ https://github.com/poemods/Path-of-Exile-modding-tool
 
 # Troubleshooting
 
-* Close game and tool
-
-* Delete old modding tool
-
-* [Download script](https://github.com/vadash/Path-of-Exile-modding-tool/archive/master.zip) Unpack somewhere and open script folder (Path-of-Exile-modding-tool-master)
-
-* Restore clean Content.ggpk from backup (or download it again)
-
-* Delete folders CachedHLSLShaders, ShaderCacheD3D11, ShaderCacheVulkan from poe root folder
-
-Now apply settings 1 by 1 and check where it crashed before
-
-*Report* it here https://github.com/vadash/Path-of-Exile-modding-tool/issues or here https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/661920-path-of-exile-modding-tool-mods-1.html
+Check these
 
 ## Permission denied
 
@@ -160,6 +148,22 @@ Close game and tool -> Run `run_me_after_big_patch(reset keep folder).cmd`
 ## Tool is not running
 
 https://github.com/vadash/Path-of-Exile-modding-tool/issues/10
+
+## If everything else failed
+
+* Close game and tool
+
+* Delete old modding tool
+
+* [Download script](https://github.com/vadash/Path-of-Exile-modding-tool/archive/master.zip) Unpack somewhere and open script folder (Path-of-Exile-modding-tool-master)
+
+* Restore clean Content.ggpk from backup (or download it again)
+
+* Delete folders CachedHLSLShaders, ShaderCacheD3D11, ShaderCacheVulkan from poe root folder
+
+Now apply settings 1 by 1 and check where it crashed before
+
+*Report* it here https://github.com/vadash/Path-of-Exile-modding-tool/issues or here https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/661920-path-of-exile-modding-tool-mods-1.html
 
 # Disclaimer
 
