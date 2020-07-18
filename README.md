@@ -46,9 +46,17 @@ Activate them in GUI
 
 ### Reduce spell effects
 
-Every skill has 1..19 particle emitters. We preserve first intact and hide the rest. This way all skill still look good and we get performance
+Every skill has up to 20 particle emitters. We preserve first intact and hide the rest. This way all skill still look good and we get performance
 
 [![img](https://i.imgur.com/zvbcGia.png)](https://i.imgur.com/uTbCw1p.mp4 "full")
+
+### Disable shadows + light hack
+
+<img src="https://i.imgur.com/S0ywoik.png" width="500"/>
+
+### Remove sounds
+
+This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example no sound gives TWICE fps in juiced maps
 
 ## Optional 
 
