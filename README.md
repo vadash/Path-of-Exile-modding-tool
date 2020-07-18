@@ -28,17 +28,17 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 Activate them in GUI
 
-### Reduce spell effects
+### reduce spell effects
 
 Every skill has up to 20 particle emitters. We preserve first intact and hide the rest. This way all skill still look good and we get performance
 
 [![img](https://i.imgur.com/zvbcGia.png)](https://i.imgur.com/uTbCw1p.mp4 "full")
 
-### Disable shadows + light hack
+### disable shadows + light hack
 
-<img src="https://i.imgur.com/S0ywoik.png" width="500"/>
+<img src="https://i.imgur.com/S0ywoik.png" width="600"/>
 
-### Remove sounds
+### remove sounds
 
 This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example no sound gives TWICE fps in juiced maps
 
@@ -46,11 +46,29 @@ This tweak removes sounds from regular mobs (all bosses should be untouched). Le
 
 Copy them from optional folder to extracted and press Insert in the end
 
-### No VD DD Desecrate
+### no VD DD Desecrate
 
 Most sound is removed. VD orbs are still here
 
 [![img](https://i.imgur.com/zPzrlo0.png)](https://i.imgur.com/PqLUYsq.mp4 "full")
+
+### [nvidia] - better no shadows, no fog
+
+Use together with env hack. Dont use alone - game will be too dark
+
+### hide they of tul spectres
+
+Powerful and durable support spectres. Can be used even on non summoner. This will hide this shit
+
+<img src="https://i.imgur.com/0WCX5Ub.png" width="600"/>
+
+### remove bloom, blur
+
+<img src="https://i.imgur.com/GSblgjc.png" width="600"/>
+
+### remove delirium fog
+
+Its easy to render but few users reported 0 delirium shutter with it so here we go
 
 # How to use
 
