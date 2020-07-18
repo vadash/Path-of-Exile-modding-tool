@@ -20,15 +20,25 @@ https://imgur.com/a/lujEQq3
 
 # Preview
 
-Recommended preset posted below
+Recommended preset posted below. I already copied from optional
+
+* hide they of tul spectres
+* remove bloom, blur
+* remove delirium fog
+
+to extracted folder (this stuff get inserted into ggpk directly after u press INSERT). If u dont like it clear it and DIY
+
+![preview1](https://i.imgur.com/b77Ur76.jpg)
+
+![preview1](https://i.imgur.com/LxqWWXE.png)
+
+# Tags
 
 [potato] - will remove something important but can provide big fps boost
 
 OR - you can pick one. For example only 1 filter for .env files
 
-![preview1](https://i.imgur.com/b77Ur76.jpg)
-
-![preview1](https://i.imgur.com/LxqWWXE.png)
+[optional] - edit some skills
 
 # Disclaimer
 
@@ -118,3 +128,7 @@ Close game -> Run included ggpk_defragment.exe -> Wait to finish
 Example https://i.imgur.com/yuclr4X.jpg
 
 Close game and tool -> Run `run_me_after_big_patch(reset keep folder).cmd`
+
+## Tool is not running
+
+https://github.com/vadash/Path-of-Exile-modding-tool/issues/10
