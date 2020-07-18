@@ -48,13 +48,13 @@ If you use GGPK to modify the game files, you are responsible for the consequenc
 
 # All options
 
-## No VD DD Des
+## Optional 
 
-https://i.imgur.com/PqLUYsq.mp4
+Copy them from optional folder to extracted and press Insert in the end
 
-<img src="https://i.imgur.com/PqLUYsq.gif" width="40" height="40" />
+## No VD DD Desecrate
 
-![alt text](img/vd_dd_des.png)
+![alt text](img/vd_dd_des.gif)
 
 # How to use
 
