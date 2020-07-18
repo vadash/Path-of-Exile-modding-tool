@@ -36,7 +36,9 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 [potato] - will remove something important but can provide big fps boost
 
-OR - you can pick one. For example only 1 filter for .env files
+[or X] - you can pick one. For example only 1 filter for .env files
+
+[nvidia] - nvidia only
 
 [optional] - edit some skills
 
