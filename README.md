@@ -46,6 +46,12 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 If you use GGPK to modify the game files, you are responsible for the consequences and risks. So far they didnt ban anyone for it in last 3 years
 
+# All options
+
+## No VD DD Des
+
+https://i.imgur.com/PqLUYsq.mp4
+
 # How to use
 
 [Гайд для 2HEAD на русском](https://youtu.be/JfGD9HfGwp4)
