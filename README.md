@@ -40,11 +40,21 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 [optional] - edit some skills
 
+## Main
+
+Activate them in GUI
+
+### Reduce spell effects
+
+Every skill has 1..19 particle emitters. We preserve first intact and hide the rest. This way all skill still look good and we get performance
+
+[![img](https://i.imgur.com/zvbcGia.png)](https://i.imgur.com/uTbCw1p.mp4 "full")
+
 ## Optional 
 
 Copy them from optional folder to extracted and press Insert in the end
 
-## No VD DD Desecrate
+### No VD DD Desecrate
 
 [![img](https://i.imgur.com/zPzrlo0.png)](https://i.imgur.com/PqLUYsq.mp4 "full")
 
