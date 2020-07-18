@@ -1,19 +1,3 @@
-# Features
-
-* Disable post processing (bloom, blur, dof, vingette, chromatic abberation)
-
-* Disable shadows (regular and screenplace), fog
-
-* Uniform lighting for all locations (delve "hack")
-
-* Remove laggy effects (all important stuff like cannot die aura, sirius meteor is untouched)
-
-* Remove monster sounds (non boss)
-
-* Remove dead bodies for performance
-
-* Remove all MTX
-
 # Preview
 
 Recommended preset posted below. I already copied from optional
