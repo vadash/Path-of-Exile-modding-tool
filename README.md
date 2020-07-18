@@ -46,7 +46,7 @@ Copy them from optional folder to extracted and press Insert in the end
 
 ## No VD DD Desecrate
 
-[![](https://i.imgur.com/zPzrlo0.png)]((https://i.imgur.com/PqLUYsq.mp4 "Full")
+[![img](https://i.imgur.com/zPzrlo0.png)](https://i.imgur.com/PqLUYsq.mp4 "full")
 
 # How to use
 
