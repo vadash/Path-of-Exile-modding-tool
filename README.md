@@ -64,6 +64,8 @@ Copy them from optional folder to extracted and press Insert in the end
 
 ### No VD DD Desecrate
 
+Most sound is removed. VD orbs are still here
+
 [![img](https://i.imgur.com/zPzrlo0.png)](https://i.imgur.com/PqLUYsq.mp4 "full")
 
 # How to use
