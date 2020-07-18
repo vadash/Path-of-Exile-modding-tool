@@ -36,13 +36,21 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 [potato] - will remove something important but can provide big fps boost
 
-OR - you can pick one. For example only 1 filter for .env files
+[or X] - you can pick one. For example only 1 filter for .env files
+
+[nvidia] - nvidia only
 
 [optional] - edit some skills
 
 # Disclaimer
 
 If you use GGPK to modify the game files, you are responsible for the consequences and risks. So far they didnt ban anyone for it in last 3 years
+
+# All options
+
+## No VD DD Des
+
+https://i.imgur.com/PqLUYsq.mp4
 
 # How to use
 
