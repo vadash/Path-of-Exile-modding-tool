@@ -31,10 +31,5 @@ def execute(filename, backupfiledata, modifyggpk):
                          emitters[1],
                          flags=re.MULTILINE|re.IGNORECASE|re.VERBOSE)
 
-    emitters[1] = re.sub(r"""^[\W]*blend_type .*$""",
-                         r"""\tblend_type AlphaBlend\r""",
-                         emitters[1],
-                         flags=re.MULTILINE|re.IGNORECASE|re.VERBOSE)
-
     filedatamod = emitters[0] + "}" + emitters[1]
     return filedatamod, encoding, bom
