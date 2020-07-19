@@ -14,6 +14,12 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 # All options explained
 
+Options are split between 
+
+* gui or **main**: easy to code operations changing up to 10k files at once
+
+* **optional**. When u press Insert tool inserts files from extracted folder. These files are manually changed and hard to automate
+
 ## Tags
 
 [potato] - will remove something important but can provide big fps boost
