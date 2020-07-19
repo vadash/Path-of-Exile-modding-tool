@@ -6,7 +6,7 @@ Recommended preset posted below. I already copied from optional
 * remove bloom, blur
 * remove delirium fog
 
-to extracted folder (this stuff get inserted into ggpk directly after u press INSERT). If u dont like it clear it and DIY
+to extracted folder (this stuff get inserted into ggpk directly after u press INSERT)
 
 ![preview1](https://i.imgur.com/b77Ur76.jpg)
 
@@ -16,9 +16,9 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 Options are split between 
 
-* gui or **main**: easy to code operations changing up to 10k files at once
+* **main**: easy to code operations changing up to 10k files at once (example shadows = false in every env file)
 
-* **optional**. When u press Insert tool inserts files from extracted folder. These files are manually changed and hard to automate
+* **optional**: when u press Insert tool inserts files from extracted folder (these files are manually changed and hard to automate)
 
 ## Tags
 
