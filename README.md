@@ -30,7 +30,7 @@ Options are split between
 
 [optional] - edit some skills
 
-## Main - check them in GUI
+## Main
 
 Activate them in GUI
 
@@ -48,7 +48,7 @@ Every skill has up to 20 particle emitters. We preserve first intact and hide th
 
 This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example no sound gives TWICE fps in juiced maps
 
-## Optional - manually copy from optional to eXtracted folder
+## Optional
 
 Copy them from optional folder to extracted and press Insert in the end
 
