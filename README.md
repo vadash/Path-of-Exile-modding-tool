@@ -1,19 +1,3 @@
-# Features
-
-* Disable post processing (bloom, blur, dof, vingette, chromatic abberation)
-
-* Disable shadows (regular and screenplace), fog
-
-* Uniform lighting for all locations (delve "hack")
-
-* Remove laggy effects (all important stuff like cannot die aura, sirius meteor is untouched)
-
-* Remove monster sounds (non boss)
-
-* Remove dead bodies for performance
-
-* Remove all MTX
-
 # Preview
 
 Recommended preset posted below. I already copied from optional
@@ -30,6 +14,12 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 # All options explained
 
+Options are split between 
+
+* gui or **main**: easy to code operations changing up to 10k files at once
+
+* **optional**. When u press Insert tool inserts files from extracted folder. These files are manually changed and hard to automate
+
 ## Tags
 
 [potato] - will remove something important but can provide big fps boost
@@ -40,13 +30,51 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 [optional] - edit some skills
 
-## Optional 
+## Main
+
+Activate them in GUI
+
+### reduce spell effects
+
+Every skill has up to 20 particle emitters. We preserve first intact and hide the rest. This way all skill still look good and we get performance
+
+[![img](https://i.imgur.com/zvbcGia.png)](https://i.imgur.com/uTbCw1p.mp4 "full")
+
+### disable shadows + light hack
+
+<img src="https://i.imgur.com/S0ywoik.png" width="600"/>
+
+### remove sounds
+
+This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example no sound gives TWICE fps in juiced maps
+
+## Optional
 
 Copy them from optional folder to extracted and press Insert in the end
 
-## No VD DD Desecrate
+### no VD DD Desecrate
 
-![alt text](img/vd_dd_des.gif)
+Most sound is removed. VD orbs are still here
+
+[![img](https://i.imgur.com/zPzrlo0.png)](https://i.imgur.com/PqLUYsq.mp4 "full")
+
+### [nvidia] - better no shadows, no fog
+
+Use together with env hack. Dont use alone - game will be too dark
+
+### hide they of tul spectres
+
+Powerful and durable support spectres. Can be used even on non summoner. This will hide this shit
+
+<img src="https://i.imgur.com/0WCX5Ub.png" width="600"/>
+
+### remove bloom, blur
+
+<img src="https://i.imgur.com/GSblgjc.png" width="600"/>
+
+### remove delirium fog
+
+Its easy to render but few users reported 0 delirium shutter with it so here we go
 
 # How to use
 
@@ -105,19 +133,7 @@ https://github.com/poemods/Path-of-Exile-modding-tool
 
 # Troubleshooting
 
-* Close game and tool
-
-* Delete old modding tool
-
-* [Download script](https://github.com/vadash/Path-of-Exile-modding-tool/archive/master.zip) Unpack somewhere and open script folder (Path-of-Exile-modding-tool-master)
-
-* Restore clean Content.ggpk from backup (or download it again)
-
-* Delete folders CachedHLSLShaders, ShaderCacheD3D11, ShaderCacheVulkan from poe root folder
-
-Now apply settings 1 by 1 and check where it crashed before
-
-*Report* it here https://github.com/vadash/Path-of-Exile-modding-tool/issues or here https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/661920-path-of-exile-modding-tool-mods-1.html
+Check these
 
 ## Permission denied
 
@@ -138,6 +154,22 @@ Close game and tool -> Run `run_me_after_big_patch(reset keep folder).cmd`
 ## Tool is not running
 
 https://github.com/vadash/Path-of-Exile-modding-tool/issues/10
+
+## If everything else failed
+
+* Close game and tool
+
+* Delete old modding tool
+
+* [Download script](https://github.com/vadash/Path-of-Exile-modding-tool/archive/master.zip) Unpack somewhere and open script folder (Path-of-Exile-modding-tool-master)
+
+* Restore clean Content.ggpk from backup (or download it again)
+
+* Delete folders CachedHLSLShaders, ShaderCacheD3D11, ShaderCacheVulkan from poe root folder
+
+Now apply settings 1 by 1 and check where it crashed before
+
+*Report* it here https://github.com/vadash/Path-of-Exile-modding-tool/issues or here https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/661920-path-of-exile-modding-tool-mods-1.html
 
 # Disclaimer
 
