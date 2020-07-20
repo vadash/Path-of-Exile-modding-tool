@@ -10,7 +10,7 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 ![preview1](https://i.imgur.com/b77Ur76.jpg)
 
-![preview1](https://i.imgur.com/Ez3CmRQ.png)
+![preview1](https://i.imgur.com/8YFQJh6.png)
 
 # All options explained
 
@@ -50,7 +50,7 @@ This tweak removes sounds from regular mobs (all bosses should be untouched). Le
 
 ### remove some effects (epk)
 
-This will remove even more effects from skills. Bosses and league effects should be untouched
+This will remove even more effects from skills. Bosses and league effects will not be touched
 
 <img src="https://i.imgur.com/eHaLLs3.png" width="600"/>
 
