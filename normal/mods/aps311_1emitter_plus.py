@@ -11,7 +11,7 @@ def execute(filename, backupfiledata, modifyggpk):
     # keeping first emitter intact
     emitters = filedatamod.split('}', maxsplit=1)
     if len(emitters) != 2:
-    	return filedatamod, encoding, bom
+        return None, None, None
     # making 2+ emitters as short as possible
     emitters[1] = re.sub(r"""^[\W]*anim_play_once [\d. ]*[\W]*$""",
                          r"""\tanim_play_once 1\r""",

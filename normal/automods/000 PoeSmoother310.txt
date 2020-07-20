@@ -107,3 +107,8 @@ exclude "volatile_dead.*orb"
 restriction "detonate_dead.*\.mat$"
 restriction "desecrate.*\.mat$"
 execute "zero_mat"
+
+title "[new] remove all effects from .mat files"
+restriction "\.mat$"
+execute "aps311_clean_mat"
+
