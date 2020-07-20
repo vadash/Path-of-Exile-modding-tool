@@ -30,7 +30,7 @@ Options are split between
 
 [optional] - edit some skills
 
-[new]/[experimental]/[beta] - new untested feature. Trick with care
+[new]/[experimental]/[beta] - new untested feature. Treat with care
 
 ## Main
 
