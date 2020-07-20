@@ -8,6 +8,7 @@ import os
 def execute(filename, backupfiledata, modifyggpk):
     filedata, encoding, bom = modifyggpk.stringcleanup(backupfiledata, "UTF-16-LE")
     filedatamod = filedata
+    filedatamod = re.sub(r'"player_environment_ao": "Metadata/Effects/weather_attachments/rain/rain.ao",', r'"player_environment_ao": "",', filedatamod)
     filedatamod = re.sub(r"""\s*"player_light":\s* # key elem
                              [^}]* # body
                              },\s*""", # end 
