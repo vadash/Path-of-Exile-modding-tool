@@ -8,9 +8,9 @@ Recommended preset posted below. I already copied from optional
 
 to extracted folder (this stuff get inserted into ggpk directly after u press INSERT)
 
-![preview1](https://i.imgur.com/b77Ur76.jpg)
+<img src="https://i.imgur.com/b77Ur76.png" width="600"/>
 
-![preview1](https://i.imgur.com/8YFQJh6.png)
+<img src="https://i.imgur.com/8YFQJh6.png" width="600"/>
 
 # All options explained
 
