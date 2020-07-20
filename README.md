@@ -18,7 +18,7 @@ Options are split between
 
 * **main**: easy to code operations changing up to 10k files at once (example shadows = false in every env file)
 
-* **optional**: when u press Insert tool inserts files from extracted folder (these files are manually changed and hard to automate)
+* **optional**: when u press Insert tool inserts files from extracted folder to the game files (these files are manually changed and hard to automate)
 
 ## Tags
 
@@ -54,13 +54,13 @@ This will remove even more effects from skills. Bosses and league effects should
 
 <img src="https://i.imgur.com/eHaLLs3.png" width="600"/>
 
-## Optional
-
-Copy them from optional folder to extracted and press Insert in the end
-
 ### no VD DD Desecrate
 
 Most sound is removed. VD orbs are still here
+
+## Optional
+
+Copy them from optional folder to extracted and press Insert in the end
 
 [![img](https://i.imgur.com/zPzrlo0.png)](https://i.imgur.com/PqLUYsq.mp4 "full")
 
