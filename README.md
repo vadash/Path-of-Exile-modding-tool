@@ -30,6 +30,8 @@ Options are split between
 
 [optional] - edit some skills
 
+[new]/[experimental]/[beta] - new untested feature. Trick with care
+
 ## Main
 
 Activate them in GUI
@@ -57,6 +59,16 @@ This will remove even more effects from skills. Bosses and league effects will n
 ### no VD DD Desecrate
 
 Most sound is removed. VD orbs are still here
+
+### remove mtx
+
+This script will null epk pet aoc mat files completely hiding all MTX effects
+
+### remove effects from mat files
+
+Remove all effects from mat files but leaveing everything else intact
+
+<img src="https://i.imgur.com/7d9pmu2.png" width="600"/>
 
 ## Optional
 
