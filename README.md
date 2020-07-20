@@ -10,7 +10,7 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 ![preview1](https://i.imgur.com/b77Ur76.jpg)
 
-![preview1](https://i.imgur.com/LxqWWXE.png)
+![preview1](https://i.imgur.com/Ez3CmRQ.png)
 
 # All options explained
 
