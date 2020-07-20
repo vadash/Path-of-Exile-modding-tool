@@ -66,6 +66,10 @@ This script will null epk pet aoc mat files completely hiding all MTX effects
 
 ### remove effects (mat)
 
+[![img](https://i.imgur.com/7km7ebn.png)](https://i.imgur.com/vckyYDu.mp4 "full")
+
+behind the scene:
+
 <img src="https://i.imgur.com/7d9pmu2.png" width="600"/>
 
 ## Optional
