@@ -42,20 +42,19 @@ restriction "\.pet$"
 restriction "\.trl$"
 execute "zero_pet"
 
-title "[or2][potato] disable fog, shadows, rain. add lighting to dark areas (.env)"
-restriction "\.env$"
-execute "aps310_env"
-
-title "[or2] just add more light (.env)"
+title "[or2] add more light around player (.env)"
 restriction "\.env$"
 execute "aps310_more_light"
+
+title "[or2][potato] disable fog, shadows, rain. normalize lighting (.env)"
+restriction "\.env$"
+execute "aps310_env"
 
 title "remove dead bodies (.ot)"
 restriction "^\./metadata/monsters/monster\.ot$"
 execute "aps310_ot"
 
 title "remove monster (non boss) sounds .aoc"
-exclude "atlasofworldsbosses"
 exclude "atlasexiles"
 exclude "boss"
 restriction "./metadata/effects/spells/monsters_effects/.*aoc$"
@@ -65,6 +64,9 @@ restriction "./metadata/effects/spells/shatter/.*aoc$"
 execute "aps311_aoc_sound"
 
 title "[potato] remove some effects from .epk"
+exclude "atlasexiles"
+exclude "boss"
+exclude "league_"
 restriction "\.epk$"
 execute "aps310_epk"
 
