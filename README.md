@@ -64,9 +64,7 @@ Most sound is removed. VD orbs are still here
 
 This script will null epk pet aoc mat files completely hiding all MTX effects
 
-### remove effects from mat files
-
-Remove all effects from mat files but leaveing everything else intact
+### remove effects from mat files (mat)
 
 <img src="https://i.imgur.com/7d9pmu2.png" width="600"/>
 
