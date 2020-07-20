@@ -40,7 +40,7 @@ Activate them in GUI
 
 Every skill has up to 20 particle emitters. We preserve first intact and hide the rest. This way all skill still look good and we get performance
 
-[![img](https://i.imgur.com/zvbcGia.png)](https://i.imgur.com/uTbCw1p.mp4 "full")
+[<img src="https://i.imgur.com/ZcF7zlg.png" width="600"/>](https://i.imgur.com/uTbCw1p.mp4 "full")
 
 ### disable shadows + light hack (env)
 
@@ -58,7 +58,7 @@ This will remove even more effects from skills. Bosses and league effects will n
 
 ### no VD DD Desecrate
 
-Most sound is removed. VD orbs are still here
+[<img src="https://i.imgur.com/9rMHV3a.png" width="600"/>](https://i.imgur.com/PqLUYsq.mp4 "full")
 
 ### remove mtx
 
@@ -66,7 +66,7 @@ This script will null epk pet aoc mat files completely hiding all MTX effects
 
 ### remove effects (mat)
 
-[![img](https://i.imgur.com/7km7ebn.png)](https://i.imgur.com/vckyYDu.mp4 "full")
+[<img src="https://i.imgur.com/7km7ebn.png" width="600"/>](https://i.imgur.com/vckyYDu.mp4 "full")
 
 behind the scene:
 
@@ -75,8 +75,6 @@ behind the scene:
 ## Optional
 
 Copy them from optional folder to extracted and press Insert in the end
-
-[![img](https://i.imgur.com/zPzrlo0.png)](https://i.imgur.com/PqLUYsq.mp4 "full")
 
 ### [nvidia] - better no shadows, no fog
 
