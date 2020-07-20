@@ -46,7 +46,7 @@ Every skill has up to 20 particle emitters. We preserve first intact and hide th
 
 ### remove sounds (aoc)
 
-This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example no sound gives TWICE fps in juiced maps
+This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example, completely disabling all sound gives up to TWICE fps in juiced maps. This is good alternative
 
 ### remove some effects (epk)
 
