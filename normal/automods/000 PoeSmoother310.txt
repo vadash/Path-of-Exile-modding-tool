@@ -63,7 +63,7 @@ restriction "./metadata/effects/microtransactions/.*aoc$"
 restriction "./metadata/effects/spells/shatter/.*aoc$"
 execute "aps311_aoc_sound"
 
-title "[potato] remove some effects from .epk"
+title "[potato] remove non boss non aura non league effects from .epk"
 exclude "atlasexiles"
 exclude "boss"
 exclude "league_"
