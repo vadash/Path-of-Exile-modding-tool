@@ -10,7 +10,7 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 ![preview1](https://i.imgur.com/b77Ur76.jpg)
 
-![preview1](https://i.imgur.com/LxqWWXE.png)
+![preview1](https://i.imgur.com/Ez3CmRQ.png)
 
 # All options explained
 
@@ -18,7 +18,7 @@ Options are split between
 
 * **main**: easy to code operations changing up to 10k files at once (example shadows = false in every env file)
 
-* **optional**: when u press Insert tool inserts files from extracted folder (these files are manually changed and hard to automate)
+* **optional**: when u press Insert tool inserts files from extracted folder to the game files (these files are manually changed and hard to automate)
 
 ## Tags
 
@@ -34,27 +34,33 @@ Options are split between
 
 Activate them in GUI
 
-### reduce spell effects
+### reduce spell effects (pet trl)
 
 Every skill has up to 20 particle emitters. We preserve first intact and hide the rest. This way all skill still look good and we get performance
 
 [![img](https://i.imgur.com/zvbcGia.png)](https://i.imgur.com/uTbCw1p.mp4 "full")
 
-### disable shadows + light hack
+### disable shadows + light hack (env)
 
 <img src="https://i.imgur.com/S0ywoik.png" width="600"/>
 
-### remove sounds
+### remove sounds (aoc)
 
-This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example no sound gives TWICE fps in juiced maps
+This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example, completely disabling all sound gives up to TWICE fps in juiced maps. This is good alternative
 
-## Optional
+### remove some effects (epk)
 
-Copy them from optional folder to extracted and press Insert in the end
+This will remove even more effects from skills. Bosses and league effects should be untouched
+
+<img src="https://i.imgur.com/eHaLLs3.png" width="600"/>
 
 ### no VD DD Desecrate
 
 Most sound is removed. VD orbs are still here
+
+## Optional
+
+Copy them from optional folder to extracted and press Insert in the end
 
 [![img](https://i.imgur.com/zPzrlo0.png)](https://i.imgur.com/PqLUYsq.mp4 "full")
 
