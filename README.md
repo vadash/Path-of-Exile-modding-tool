@@ -34,19 +34,25 @@ Options are split between
 
 Activate them in GUI
 
-### reduce spell effects
+### reduce spell effects (pet trl)
 
 Every skill has up to 20 particle emitters. We preserve first intact and hide the rest. This way all skill still look good and we get performance
 
 [![img](https://i.imgur.com/zvbcGia.png)](https://i.imgur.com/uTbCw1p.mp4 "full")
 
-### disable shadows + light hack
+### disable shadows + light hack (env)
 
 <img src="https://i.imgur.com/S0ywoik.png" width="600"/>
 
-### remove sounds
+### remove sounds (aoc)
 
 This tweak removes sounds from regular mobs (all bosses should be untouched). Less sound - bigger performance. For example no sound gives TWICE fps in juiced maps
+
+### remove some effects (epk)
+
+This will remove even more effects from skills. Bosses and league effects should be untouched
+
+<img src="https://i.imgur.com/eHaLLs3.png" width="600"/>
 
 ## Optional
 
