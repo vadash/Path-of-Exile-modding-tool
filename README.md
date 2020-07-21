@@ -12,6 +12,10 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 <img src="https://i.imgur.com/jXtmqte.png"/>
 
+Need more performance ? Try setup below
+
+<img src="https://i.imgur.com/1pEyQYn.png"/>
+
 # All options explained
 
 Options are split between 
