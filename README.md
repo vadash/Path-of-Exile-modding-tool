@@ -197,4 +197,4 @@ Now apply settings 1 by 1 and check where it crashed before
 
 If you use GGPK to modify the game files, you are responsible for the consequences and risks. So far they didnt ban anyone for it in last 3 years
 
-poe mod tool path of exile modding tool bloom disable
+poe mod tool path of exile modding tool bloom disable shadows
