@@ -10,7 +10,7 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 <img src="https://i.imgur.com/b77Ur76.png" width="600"/>
 
-<img src="https://i.imgur.com/8YFQJh6.png"/>
+<img src="https://i.imgur.com/jXtmqte.png"/>
 
 # All options explained
 
