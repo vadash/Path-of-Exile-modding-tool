@@ -42,13 +42,13 @@ restriction "\.pet$"
 restriction "\.trl$"
 execute "zero_pet"
 
-title "[or2] no fog, rain, more light (.env)"
+title "[or2] no fog, rain (.env)"
 restriction "\.env$"
-execute "aps311_env_shadows"
+execute "aps311_env_vanila"
 
 title "[or2] no fog, no rain, no shadows, more light (.env)"
 restriction "\.env$"
-execute "aps311_env_no_shadows"
+execute "aps311_env_full"
 
 title "remove dead bodies (.ot)"
 restriction "^\./metadata/monsters/monster\.ot$"
