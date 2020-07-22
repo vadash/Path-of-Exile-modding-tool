@@ -46,14 +46,16 @@ Every skill has up to 20 particle emitters. We preserve first intact and hide th
 
 [<img src="https://i.imgur.com/ZcF7zlg.png" width="600"/>](https://i.imgur.com/uTbCw1p.mp4 "full")
 
-### no fog, rain, shadows, more light (env)
-
-Adds light to dark zones
+### no fog, rain (env)
 
 <p float="left">
-  <img src="https://i.imgur.com/ysei1KL.jpg" width="400"/>
-  <img src=https://i.imgur.com/ftVhAAb.jpg" width="400"/>
+  <img src="https://i.imgur.com/MfOeNNL.jpg" width="400"/>
+  <img src=https://i.imgur.com/O8qwbJX.jpg" width="400"/>
 </p>
+
+### no fog, rain, no shadows, more light (env)
+
+-
 
 ### remove sounds (aoc)
 
