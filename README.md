@@ -10,7 +10,11 @@ to extracted folder (this stuff get inserted into ggpk directly after u press IN
 
 <img src="https://i.imgur.com/b77Ur76.png" width="600"/>
 
-<img src="https://i.imgur.com/8YFQJh6.png"/>
+<img src="https://i.imgur.com/jXtmqte.png"/>
+
+Need more performance ? Try setup below
+
+<img src="https://i.imgur.com/1pEyQYn.png"/>
 
 # All options explained
 
@@ -44,7 +48,12 @@ Every skill has up to 20 particle emitters. We preserve first intact and hide th
 
 ### disable shadows + light hack (env)
 
-<img src="https://i.imgur.com/S0ywoik.png" width="600"/>
+Adds light where needed
+
+<p float="left">
+  <img src="https://i.imgur.com/ysei1KL.jpg" width="500"/>
+  <img src=https://i.imgur.com/ftVhAAb.jpg" width="500"/>
+</p>
 
 ### remove sounds (aoc)
 
@@ -192,3 +201,5 @@ Now apply settings 1 by 1 and check where it crashed before
 # Disclaimer
 
 If you use GGPK to modify the game files, you are responsible for the consequences and risks. So far they didnt ban anyone for it in last 3 years
+
+poe mod tool path of exile modding tool bloom disable shadows
