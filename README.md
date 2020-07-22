@@ -48,7 +48,9 @@ Every skill has up to 20 particle emitters. We preserve first intact and hide th
 
 ### disable shadows + light hack (env)
 
-<img src="https://i.imgur.com/S0ywoik.png" width="600"/>
+Adds light where needed
+
+<img src="https://i.imgur.com/ysei1KL.jpg" width="600"/>
 
 ### remove sounds (aoc)
 
