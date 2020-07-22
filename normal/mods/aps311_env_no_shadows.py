@@ -26,9 +26,7 @@ def execute(filename, backupfiledata, modifyggpk):
                          flags=re.MULTILINE|re.IGNORECASE|re.VERBOSE)
 
     # disable rain
-    filedatamod = re.sub(r"""^\s*"area":\s* # key elem
-                             [^}]* # body
-                             },\s*""", # end 
+    filedatamod = re.sub(r'Metadata/Effects/weather_attachments/rain/rain.ao', # end 
                          r'',
                          filedatamod,
                          flags=re.MULTILINE|re.IGNORECASE|re.VERBOSE)
