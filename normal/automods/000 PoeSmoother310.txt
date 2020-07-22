@@ -46,7 +46,7 @@ title "[or2] no fog, rain, more light (.env)"
 restriction "\.env$"
 execute "aps311_env_shadows"
 
-title "[or2] no fog, rain, shadows, more light (.env)"
+title "[or2] no fog, no rain, no shadows, more light (.env)"
 restriction "\.env$"
 execute "aps311_env_no_shadows"
 
