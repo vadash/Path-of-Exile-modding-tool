@@ -51,7 +51,7 @@ def execute(filename, backupfiledata, modifyggpk):
         env_brightness = float(match.group(1))
         min_value = 1.0
         max_value = max(env_brightness, 2.5)
-        env_brightness = env_brightness * 2
+        env_brightness = ((env_brightness / 2.5) * 1.5) + 1 # 0..2.5 -> 1..2.5
         env_brightness = max(min_value, env_brightness)
         env_brightness = min(env_brightness, max_value)
         filedatamod = re.sub(r'"env_brightness": ([\d.]*)', r'"env_brightness": ' + str(env_brightness), filedatamod)
