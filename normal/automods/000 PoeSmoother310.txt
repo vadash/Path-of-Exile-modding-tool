@@ -42,13 +42,13 @@ restriction "\.pet$"
 restriction "\.trl$"
 execute "zero_pet"
 
-title "[or2] add more light around player (.env)"
+title "[or2] no fog, rain, more light (.env)"
 restriction "\.env$"
-execute "aps310_more_light"
+execute "aps311_env_shadows"
 
-title "[or2][potato] disable fog, shadows, rain. normalize lighting (.env)"
+title "[or2] no fog, rain, shadows, more light (.env)"
 restriction "\.env$"
-execute "aps310_env"
+execute "aps311_env_no_shadows"
 
 title "remove dead bodies (.ot)"
 restriction "^\./metadata/monsters/monster\.ot$"
