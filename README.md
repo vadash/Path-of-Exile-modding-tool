@@ -50,7 +50,7 @@ Every skill has up to 20 particle emitters. We preserve first intact and hide th
 
 Adds light where needed
 
-<img src="https://i.imgur.com/ysei1KL.jpg" width="500"/> <img src=https://i.imgur.com/ftVhAAb.jpg" width="500"/>
+<img src="https://i.imgur.com/ysei1KL.jpg" width="500"/>   <img src=https://i.imgur.com/ftVhAAb.jpg" width="500"/>
 
 ### remove sounds (aoc)
 
