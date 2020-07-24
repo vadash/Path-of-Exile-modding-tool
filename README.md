@@ -189,6 +189,10 @@ Close game and tool -> Run `run_me_after_big_patch(reset keep folder).cmd`
 
 https://github.com/vadash/Path-of-Exile-modding-tool/issues/10
 
+## AMD black screen
+
+https://github.com/vadash/Path-of-Exile-modding-tool/issues/13
+
 ## If everything else failed
 
 * Close game and tool
