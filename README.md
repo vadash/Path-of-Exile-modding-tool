@@ -188,9 +188,11 @@ Close game and tool -> Run `run_me_after_big_patch(reset keep folder).cmd`
 
 https://github.com/vadash/Path-of-Exile-modding-tool/issues/10
 
-## AMD black screen
+## Incursion black screen
 
-https://github.com/vadash/Path-of-Exile-modding-tool/issues/13
+Disable incursion effects in game settings
+
+https://media.discordapp.net/attachments/669378438259539990/737522342032310383/unknown.png
 
 ## If everything else failed
 
