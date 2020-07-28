@@ -167,11 +167,13 @@ https://github.com/poemods/Path-of-Exile-modding-tool
 
 Check these
 
-## Permission denied
+## Permission denied / error 13
 
 Right click poe folder -> Security -> Edit -> Add -> Advanced -> Find now -> Select "Everyone" -> Ok -> Click on "Everyone" -> Click allow full control -> Ok -> Ok
 
 ![access](https://i.imgur.com/nkdVySn.png)
+
+Also check https://github.com/vadash/Path-of-Exile-modding-tool/issues/14
 
 ## Failed to load ggpk invalid tag X
 
@@ -186,6 +188,10 @@ Close game and tool -> Run `run_me_after_big_patch(reset keep folder).cmd`
 ## Tool is not running
 
 https://github.com/vadash/Path-of-Exile-modding-tool/issues/10
+
+## AMD black screen
+
+https://github.com/vadash/Path-of-Exile-modding-tool/issues/13
 
 ## If everything else failed
 
