@@ -4,7 +4,6 @@ Recommended preset posted below. I already copied from optional
 
 * hide they of tul spectres
 * remove bloom, blur
-* remove delirium fog
 
 to extracted folder (this stuff get inserted into ggpk directly after u press INSERT)
 
