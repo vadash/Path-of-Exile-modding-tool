@@ -46,7 +46,7 @@ title "[or2] no fog, no rain, more light (.env)"
 restriction "\.env$"
 execute "aps311_env_vanila"
 
-title "[or2] no fog, no rain, no shadows, even more light (.env)"
+title "[or2][potato] no fog, no rain, no shadows, even more light (.env)"
 restriction "\.env$"
 execute "aps311_env_full"
 

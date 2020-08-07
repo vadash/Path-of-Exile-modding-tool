@@ -35,12 +35,12 @@ def execute(filename, backupfiledata, modifyggpk):
     filedatamod = re.sub(r"""\s*"player_light":\s* # key elem
                              [^}]* # body
                              },\s*""", # end 
-                         r""""player_light":{"shadows_enabled":true,"colour":[1.0,1.0,1.0],"intensity":1.0,"penumbra":0.0},""",
+                         r""""player_light":{"shadows_enabled":false,"colour":[1.0,1.0,1.0],"intensity":1.0,"penumbra":0.0},""",
                          filedatamod,
                          flags=re.IGNORECASE|re.VERBOSE)
 
-    # add global lighting 1
-    match = re.search(r'env_brightness": ([\d.]*)', filedatamod, flags=re.IGNORECASE)
+    # add global lighting 2
+    match = re.search(r'multiplier": ([\d.]*)', filedatamod, flags=re.IGNORECASE)
     if match:
         value = float(match.group(1))
         new_min = 0.5
@@ -48,6 +48,6 @@ def execute(filename, backupfiledata, modifyggpk):
         value = ((value / new_max) * (new_max - new_min)) + new_min
         value = max(new_min, value)
         value = min(value, new_max)
-        filedatamod = re.sub(r'"env_brightness": ([\d.]*)', r'"env_brightness": ' + str(value), filedatamod)
+        filedatamod = re.sub(r'"multiplier": ([\d.]*)', r'"multiplier": ' + str(value), filedatamod)
 
     return filedatamod, encoding, bom
