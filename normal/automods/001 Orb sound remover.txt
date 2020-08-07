@@ -1,0 +1,22 @@
+name "001 orb sound remover"
+
+title "Frenzy"
+restriction
+restriction "rig_frenzy.*\.aoc$"
+execute "zero_aoc"
+
+title "Endurance"
+restriction
+restriction "rig_endurance.*\.aoc$"
+execute "zero_aoc"
+
+title "Power Charge"
+restriction
+restriction "rig_charge.*\.aoc$"
+execute "zero_aoc"
+
+
+title "Inspiration"
+restriction
+restriction "inspiration.*\.aoc$"
+execute "zero_aoc"
