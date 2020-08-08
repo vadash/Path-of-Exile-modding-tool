@@ -120,3 +120,8 @@ restriction "metadata/effects/microtransactions/.*\.epk$"
 execute "zero_epk"
 restriction "metadata/effects/microtransactions/.*\.pet$"
 execute "zero_pet"
+
+title "[potato] remove items on ground (and character ;) (.mat)"
+exclude "portal"
+restriction "/art/textures/items/.*\.mat$"
+execute "aps310_hide_mat"
