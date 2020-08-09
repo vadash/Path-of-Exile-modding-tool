@@ -85,7 +85,7 @@ behind the scene:
 
 <img src="https://i.imgur.com/7d9pmu2.png" width="600"/>
 
-### remove items
+### remove items from the ground
 
 <img src="https://i.imgur.com/QKSHzZL.png" width="600"/>
 
