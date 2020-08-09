@@ -85,6 +85,12 @@ behind the scene:
 
 <img src="https://i.imgur.com/7d9pmu2.png" width="600"/>
 
+### remove items
+
+<img src="https://i.imgur.com/QKSHzZL.png" width="600"/>
+
+but not without drawback
+
 ## Optional
 
 Copy them from optional folder to extracted and press Insert in the end
