@@ -35,18 +35,18 @@ def execute(filename, backupfiledata, modifyggpk):
     match = re.search(r'multiplier": ([\d.]*)', filedatamod, flags=re.IGNORECASE)
     if match:
         value = float(match.group(1))
-        if value > 1.0:
-            return None, None, None
-        filedatamod = re.sub(r"""^\s*"directional_light":\s* # key elem
-                                 [^}]* # body
-                                 },\s*""", # end 
-                             r""""directional_light":{"shadows_enabled":false,"colour":[1.0,1.0,1.0],"multiplier":0.4,"phi":2,"theta":2},""",
-                             filedatamod,
-                             flags=re.MULTILINE|re.IGNORECASE|re.VERBOSE)
-        filedatamod = re.sub(r"""\s*"player_light":\s* # key elem
-                                 [^}]* # body
-                                 },\s*""", # end 
-                             r""""player_light":{"shadows_enabled":true,"colour":[1.0,1.0,1.0],"intensity":1.0,"penumbra":0.0},""",
-                             filedatamod,
-                             flags=re.IGNORECASE|re.VERBOSE)
+        if value < 1.0:
+            filedatamod = re.sub(r"""^\s*"directional_light":\s* # key elem
+                                     [^}]* # body
+                                     },\s*""", # end 
+                                 r""""directional_light":{"shadows_enabled":true,"colour":[1.0,1.0,1.0],"multiplier":0.4,"phi":2,"theta":2},""",
+                                 filedatamod,
+                                 flags=re.MULTILINE|re.IGNORECASE|re.VERBOSE)
+            filedatamod = re.sub(r"""\s*"player_light":\s* # key elem
+                                     [^}]* # body
+                                     },\s*""", # end 
+                                 r""""player_light":{"shadows_enabled":true,"colour":[1.0,1.0,1.0],"intensity":1.0,"penumbra":0.0},""",
+                                 filedatamod,
+                                 flags=re.IGNORECASE|re.VERBOSE)
+    
     return filedatamod, encoding, bom
