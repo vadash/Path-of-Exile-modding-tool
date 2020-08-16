@@ -125,3 +125,7 @@ title "[potato] remove items on ground (and character ;) (.mat)"
 exclude "portal"
 restriction "/art/textures/items/.*\.mat$"
 execute "aps310_hide_mat"
+
+title "mute cassie .ogg"
+restriction "audio/dialogue/npc/cassia/.*\.ogg$"
+execute "ogg"
