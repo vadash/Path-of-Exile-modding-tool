@@ -50,10 +50,6 @@ title "[or2][potato] no fog, no rain, no shadows, even more light (.env)"
 restriction "\.env$"
 execute "aps311_env_full"
 
-title "remove dead bodies (.ot)"
-restriction "^\./metadata/monsters/monster\.ot$"
-execute "aps310_ot"
-
 title "[or3] remove monster (non boss) sounds .aoc"
 exclude "atlasexiles"
 exclude "boss"
@@ -63,11 +59,15 @@ restriction "./metadata/effects/microtransactions/.*aoc$"
 restriction "./metadata/effects/spells/shatter/.*aoc$"
 execute "aps311_aoc_sound"
 
-title "[or3] remove all (non boss) sounds .aoc"
+title "[or3][potato] remove all (non boss) sounds .aoc"
 exclude "atlasexiles"
 exclude "boss"
 restriction "/.*aoc$"
 execute "aps311_aoc_sound"
+
+title "remove dead bodies (.ot)"
+restriction "^\./metadata/monsters/monster\.ot$"
+execute "aps310_ot"
 
 title "dd/vd/desecrate - remove all effects"
 exclude "volatile_dead.*orb"
