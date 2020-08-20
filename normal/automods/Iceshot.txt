@@ -1,0 +1,5 @@
+title "[experimental] remove the stuck arrows from iceshot in the wall"
+restriction "./Metadata/Effects/Spells/icearrow_02/arrow_ice_stuck.ao$"
+execute "null_ao"
+restriction "./Metadata/Effects/Spells/icearrow_02/arrow_ice_stuck.aoc$"
+execute "null_aoc"
