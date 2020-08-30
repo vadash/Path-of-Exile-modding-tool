@@ -212,6 +212,10 @@ Now apply settings 1 by 1 and check where it crashed before
 
 *Report* it here https://github.com/vadash/Path-of-Exile-modding-tool/issues or here https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/661920-path-of-exile-modding-tool-mods-1.html
 
+## Too hard for me
+
+Use my friend tool https://github.com/ajaxvs/poeNullParticles/releases
+
 # Disclaimer
 
 If you use GGPK to modify the game files, you are responsible for the consequences and risks. So far they didnt ban anyone for it in last 3 years
